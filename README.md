@@ -12,14 +12,14 @@ VSCODEを使用して授業を行っていきますが、設定してほしい�
 
   
 
-![](http://localhost:9425/images/aa30f833-dd85-4084-98bc-7e856d17508d.png)  
+![](https://github.com/dhanafusa/Js/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-09-24%20131424.png)  
 
   
 
 - IntelliCode  
   
 
-![](http://localhost:9425/images/c258936d-7254-446e-a8bf-c83cf3e918a1.png)  
+![](https://github.com/dhanafusa/Js/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-09-24%20131544.png)  
 
   
 
@@ -27,7 +27,7 @@ VSCODEを使用して授業を行っていきますが、設定してほしい�
 
   
 
-![](http://localhost:9425/images/558d6a60-1ab4-42a5-9884-729c2fc25042.png)  
+![](https://github.com/dhanafusa/Js/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-09-24%20131642.png)  
 
 Prettierは拡張機能の導入だけでは動作しませんので下記URLを参考に設定してください。  
 [https://ralacode.com/blog/post/vscode-prettier/](https://ralacode.com/blog/post/vscode-prettier/ "https://ralacode.com/blog/post/vscode-prettier/")  
@@ -207,7 +207,7 @@ CSSファイルを以下のように追記変更します。
 
   
 
-![](http://localhost:9425/images/2815575f-3a8c-4799-86c2-444507382ec3.gif)  
+![](https://github.com/dhanafusa/Js/blob/main/chrome-capture-2024-9-24.gif)  
 
   
 
